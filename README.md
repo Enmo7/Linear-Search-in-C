@@ -1,0 +1,1 @@
+# Linear-Search-in-C
